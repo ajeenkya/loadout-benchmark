@@ -1,0 +1,14 @@
+# Runtime artifacts — buyers running the benchmark generate this locally
+ab_results.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+
+# Editor / OS
+.DS_Store
+*.swp
